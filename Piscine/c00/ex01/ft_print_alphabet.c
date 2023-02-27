@@ -12,10 +12,8 @@ void ft_print_alphabet(void)
             write (1, &", ", 2);
         else
             break;
-        c++;
-         
-    }
-    
+        c++;    
+    } 
 }
 
 int main ()
